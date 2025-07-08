@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomdev05&label=Profile%20views&color=0e75b6&style=flat" alt="tomdev05" /> </p>
-[![roadmap.sh](https://roadmap.sh/card/tall/684d6147804da5ff7b26ba36?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/684d6147804da5ff7b26ba36?variant=dark" alt="roadmap.sh"/></a>
 
 - 🔭 I’m currently working on **DPUnity System**
 
